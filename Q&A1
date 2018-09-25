@@ -1,0 +1,14 @@
+What is #include <stdio.h>?
+#include <stdio.h> is a preprocessor command, which tells a C compiler to include stdio.h file before going to actual compilation.
+
+What is printf?
+printf(...) is another function available in C which causes the message "Hello, World!" to be displayed on the screen
+
+What is main?
+main() is the main function where the program execution begins.
+
+Why should you learn touch typing on a qwerty keyboard? 
+In touch typing, the hands rest on a designated set of keys (the home row) and each finger moves in a systematic way to reach the letters nearest to it.
+
+How will you learn touch typing on a qwerty keyboard?
+When you learn to touch type you memorize the position of the keys on the keyboard using muscle memory in the fingers and hands.
