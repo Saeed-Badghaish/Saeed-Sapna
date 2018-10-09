@@ -1,0 +1,31 @@
+What is #include <stdio.h>?
+ #include <stdio.h> is a preprocessor command, which tells a C compiler to include stdio.h file before going to actual compilation.
+
+What is printf? 
+printf is a function in which int printf(const char *format, ...) sends formatted output to stdout.
+
+What is main?
+The main function is "called" by the operating system when the user runs the program. Thus the main function is always the first code executed when a program starts.
+
+What is a variable?
+A variable is nothing but a name given to a storage area that our programs can manipulate.
+
+What is type of a variable?
+Types of variable are: char,int,float,double,void,etc.
+
+What & operator? 
+Binary AND(&) Operator copies a bit to the result if it exists in both operands.
+
+What is% d in printf and scanf?
+%d format specifier is used to display the value of an integer variable.
+
+What is the meaning of compilation of a program?
+A compiler is used to convert it into an executable code so that the program can be run on our machine.
+
+What is the meaning of running a program? 
+Running a program means executing a program hence giving output.
+
+List all syntax errors and reasons for the syntax errors?
+Most frequent syntax errors are:
+a)Missing Parenthesis (})
+b)Printing the value of variable without declaring it
