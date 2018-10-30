@@ -1,0 +1,59 @@
+What is the structure of a program? 
+Structure is a collection of variables of different types under a single name.
+
+What is the difference between% d and% f format specifiers?
+%d (%i) int signed integer
+%f float or double signed decimal
+
+What is a function?
+A function is a group of statements that together perform a task. Every C program has at least one function, which is main(), and all the most trivial programs can define additional functions.
+
+What is a function definition? 
+A function definition provides the actual body of the function.
+
+What is a function declaration? 
+A function declaration tells the compiler about a function's name, return type, and parameters
+
+Why do you need function declaration?
+Function declaration is required when you define a function in one source file and you call that function in another file
+
+What are the formal parameters?
+If a function is to use arguments, it must declare variables that accept the values of the arguments. These variables are called the formal parameters of the function.
+
+What are the actual parameters?
+Actual parameters are parameters as they appear in function calls.
+
+What is the meaning of pass by value?
+"Passing by value" means that you pass the actual value of the variable into the function.
+
+What is the meaning of pass by reference? 
+When reference variables are used as formal parameters, this is known as Pass By Reference.
+
+List all syntax errors and reason for the syntax errors.
+Most frequent syntax errors are:
+Missing Parenthesis (})
+Printing the value of variable without declaring it
+Missing semicolon like this:
+eg..
+// C program to illustrate 
+// syntax error 
+#include<stdio.h> 
+void main() 
+{ 
+    int x = 10; 
+    int y = 15;  
+    printf("%d", (x, y)) // semicolon missed 
+} 
+
+What is the meaning of floating point number?
+A real number (that is, a number that can contain a fractional part). The following are floating-point numbers:
+3.0
+-111.5
+
+Is there a limit to how big an integer can be me in c program?
+yes,there is a limit for an integer as int can store values upto 32 bits
+
+Is there a limit to how big a floating point number can be in ac program?
+Floating point data type can take large floating point numbers with a small degree of precision
+
+
